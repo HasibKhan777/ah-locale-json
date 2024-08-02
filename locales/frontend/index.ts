@@ -7,9 +7,9 @@ import { fr } from './french'
 import { jp } from './japanese'
 import { kr } from './korean'
 import { es } from './spanish'
+import { it } from './italia
+const locales = { en, bn, cn, cz, de, fr, jp, kr, es, it }
 
-const locales = { en, bn, cn, cz, de, fr, jp, kr, es }
-
-export { en, bn, cn, cz, de, fr, jp, kr, es }
+export { en, bn, cn, cz, de, fr, jp, kr, es, it }
 
 export default locales
